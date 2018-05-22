@@ -1,0 +1,6 @@
+dist/
+coalescence.egg-info/
+__pycache__/
+.eggs/
+.pytest_cache/
+**.pyc
